@@ -3,5 +3,5 @@
 int main()
 {
     printf("----shj----\n");
-
+    printf("gggggggggggggg\n");
 }
